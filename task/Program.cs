@@ -50,12 +50,12 @@ string[] GenerateSecondaryArray(string[] array)     //Создание втор�
     return arraySec;                                     //Возвращаем значение функции     
 }
 
-void PrintArray(string[] array, string message)
+void PrintArray(string[] array, string message)          //Вывод элементов массива на экран
 {
     System.Console.WriteLine($"{message} массив:");
     foreach (string item in array)
     {
-        System.Console.Write(item + "\t");               //Вывод элементов массива на экран 
+        System.Console.Write(item + "\t");               //Выводим поочередно элементы массива на экран 
     }
     System.Console.WriteLine();
 }
