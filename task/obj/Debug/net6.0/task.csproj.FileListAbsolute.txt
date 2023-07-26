@@ -1,0 +1,15 @@
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\bin\Debug\net6.0\task.exe
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\bin\Debug\net6.0\task.deps.json
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\bin\Debug\net6.0\task.dll
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\bin\Debug\net6.0\task.pdb
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\task.dll
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\refint\task.dll
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\task.pdb
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\LernGB\1 итоговая контрольная\Test_1_BasicBlock\task\obj\Debug\net6.0\ref\task.dll
